@@ -3,6 +3,10 @@
     margin: 10px;
 }
 
+body {
+    background-color: lightcoral;
+}
+
 div.container{
     width: 80%;
     min-height: 400px;
